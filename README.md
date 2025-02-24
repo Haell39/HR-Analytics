@@ -15,7 +15,8 @@ Bem-vindo ao meu projeto de Ciência de Dados, onde abordo um grande desafio em 
 ---
 
 ## 📸 Gráficos e Imagens!
-![Histograma da Distribuição de Idades](imgs\graph1.png "Distribuição das Idades dos Funcionários")
+<img src="imgs/graph1.png" alt="Distribuição das Idades dos Funcionários" width="700" />
+
 
 
 
