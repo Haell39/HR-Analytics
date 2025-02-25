@@ -1,6 +1,8 @@
 # 🚀 HR Analytics: Predição de Rotatividade de Funcionários para Retenção Estratégica
 
-Bem-vindo ao meu projeto de Ciência de Dados, onde abordo um grande desafio em uma corporação multinacional: a rotatividade de funcionários! 🌍 O time de RH me procurou para desenvolver um modelo preditivo que identifique quais colaboradores têm maior chance de sair da empresa, permitindo decisões estratégicas para reduzir o turnover, aumentar a retenção e melhorar a satisfação dos funcionários. Utilizando o **HR Analytics: Attrition Dataset** do Kaggle, estou explorando os dados para gerar insights e preparar o caminho para modelagem avançada. 📊
+#### 📌 Observação: O código foi escrito em inglês para fins de aprendizado e internacionalização, permitindo que um público mais amplo tenha acesso.
+
+Bem-vindo ao meu projeto de Ciência de Dados, onde abordo um grande desafio em uma corporação multinacional: a rotatividade de funcionários! 🌍 Vou desenvolver um modelo preditivo que identifique quais colaboradores têm maior chance de sair da empresa, permitindo decisões estratégicas para reduzir o turnover, aumentar a retenção e melhorar a satisfação dos funcionários. Utilizando o **HR Analytics: Attrition Dataset** do Kaggle, estou explorando os dados para gerar insights e preparar o caminho para modelagem avançada. 📊
 
 ## 🌟 O Que Foi Feito (Visualização & EDA)
 - **Importação de Bibliotecas e Dataset**: Carreguei ferramentas do Python (Pandas, NumPy, Seaborn, Matplotlib) e o dataset com **35 variáveis** e **1.470 registros**, explorando sua estrutura. 🛠️
