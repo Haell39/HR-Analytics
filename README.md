@@ -15,8 +15,10 @@ Bem-vindo ao meu projeto de Ciência de Dados, onde abordo um grande desafio em 
 ---
 
 ## 📸 Gráficos e Imagens!
-<img src="imgs/graph1.png" alt="Distribuição das Idades dos Funcionários" width="700" />
-
+<h3>Histograma</h3>
+<img src="imgs/graph1.png" alt="Distribuição das Idades dos Funcionários" width="700" /> <br> <br>
+<h3>Boxplot Heatmap</h3>
+<img src="imgs/graph2.png" alt="Distribuição das Idades dos Funcionários" width="700" />
 
 
 
