@@ -52,4 +52,4 @@ Como aspirante a estágio em Data Science, este projeto demonstra habilidades em
 
 
 ## 🤝 Vamos Conectar?
-Estou animado para levar minha paixão por Data Science e resolução de problemas para sua equipe! Entre em contato pelo [seu LinkedIn/GitHub] para conversarmos sobre como posso contribuir. 😊
+Estou animado para levar minha paixão por Data Science e resolução de problemas para sua equipe! Entre em contato para conversarmos sobre como posso contribuir. 😊
