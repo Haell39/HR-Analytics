@@ -16,9 +16,9 @@ Bem-vindo ao meu projeto de Ciência de Dados, onde abordo um grande desafio em 
 
 ## 📸 Alguns Gráficos!
 <h3>Histograma</h3>
-<img src="imgs/graph1.png" alt="Distribuição das Idades dos Funcionários" width="700" /> <br> <br>
+<img src="imgs/graph1.png" alt="Distribuição das Idades dos Funcionários" width="700" /> <br>
 <h3>Boxplot Heatmap</h3>
-<img src="imgs/graph2.png" alt="Distribuição das Idades dos Funcionários" width="700" />
+<img src="imgs/graph2.png" alt="Distribuição das Idades dos Funcionários" width="700" /> <br>
 
 
 
