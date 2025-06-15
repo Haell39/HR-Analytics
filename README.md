@@ -49,5 +49,5 @@ Como aspirante a estágio em Data Science, este projeto demonstra habilidades em
 
 
 ## 🤝 Contato profissional
-Email: rafaeldutrapro@gmail.com
+Email: rafaeldutrapro@gmail.com <br>
 LinkedIn: rafaelsantoshome
