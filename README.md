@@ -48,6 +48,6 @@ Como aspirante a estágio em Data Science, este projeto demonstra habilidades em
 4. Consulte `/data/raw/Human_Resources.csv` para o dataset e `/src/` para códigos reutilizáveis (em breve!). 
 
 
-
-## 🤝 Vamos Conectar?
-Estou animado para levar minha paixão por Data Science e resolução de problemas para sua equipe! Entre em contato para conversarmos sobre como posso contribuir. 😊
+## 🤝 Contato profissional
+Email: rafaeldutrapro@gmail.com
+LinkedIn: rafaelsantoshome
