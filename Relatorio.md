@@ -15,26 +15,34 @@ A fase inicial focou em explorar o conjunto de dados, entender suas variáveis, 
 
 ## Estrutura do Projeto
 ```
-hr-analytics-turnover/
-├── data/                # Conjuntos de dados utilizados na análise
-│   ├── raw/             # Dados originais
+HR-Analytics/
+├── data/                          # Conjuntos de dados
+│   ├── raw/                       # Dados brutos originais
 │   │   └── Human_Resources.csv
-│   ├── processed/       # Dados pré-processados (treino e teste)
-│   └── models/          # Modelos de ML treinados e salvos
-├── notebooks/           # Notebooks para análise exploratória, pré-processamento e modelagem
+│   └── processed/                 # Dados já tratados e separados
+│       ├── X_test.csv
+│       ├── X_train.csv
+│       ├── y_test.csv
+│       └── y_train.csv
+├── imgs/                          # Imagens geradas durante a análise
+│   ├── graph1.png
+│   ├── graph2.png
+│   ├── img.png
+│   └── img2.png
+├── models/                        # Modelos treinados salvos
+│   ├── melhor_random_forest.pkl
+│   └── melhor_xgboost.pkl
+├── notebooks/                     # Notebooks de análise e modelagem
 │   ├── EDA_HR.ipynb
-│   ├── Pre_processamento_HR.ipynb
-│   ├── Treinamento_Avaliacao_Modelo_HR.ipynb
-│   └── Treinamento_e_Previsao_Melhores_Modelos_HR.ipynb
-├── src/                 # Scripts auxiliares (se houver necessidade futura)
-├── requirements.txt     # Arquivo com as dependências necessárias
-├── README.md            # Resumo do projeto e explicações
-├── LICENSE              # Licença de uso do projeto
-├── venv/                # Ambiente virtual
-├── Relatorio.md         # Relatório do projeto
-├── .gitattributes       # Configurações do Git
-├── imgs/                # Imagens geradas (gráficos, matrizes de confusão)
-└── .idea/               # Configurações do projeto no IDE (opcional)
+│   ├── Melhores_Modelos_HR.ipynb
+│   ├── Pre-processamento_HR.ipynb
+│   └── Treinamento_Avaliacao_Modelo_HR.ipynb
+├── Relatorio.md                   # Relatório final com resumo e resultados
+├── requirements.txt              # Lista de dependências (bibliotecas)
+├── README.md                      # Descrição geral do projeto
+├── LICENSE                        # Licença do projeto
+├── .gitattributes                 # Configurações de atributos do Git
+└── .gitignore                     # Arquivos e pastas ignoradas pelo Git
 ```
 
 ## Exploração e Análise de Dados (EDA)
