@@ -47,7 +47,7 @@ Este projeto foi dividido em notebooks para garantir um fluxo de trabalho claro 
 ---
 
 ## 📸 Alguns Gráficos da EDA!
-<h3>Histograma de Distribuição de Features</h3>
+<h3>Histórico de Treinamento do Modelo Keras (Acurácia e Loss)</h3>
 <img src="imgs/img.png" alt="Distribuição de Várias Features Numéricas" width="700" /> <br>
 *Acurácia do modelo de Deep Learning.*
 
@@ -59,18 +59,13 @@ Este projeto foi dividido em notebooks para garantir um fluxo de trabalho claro 
 <img src="imgs/graph2.png" alt="Mapa de Calor de Correlação" width="700" /> <br>
 *Mapa de calor mostrando a correlação entre as variáveis numéricas do dataset.*
 
-<h3>Countplot e um Kdeplot abaixo</h3>
+<h3>Impacto das Horas Extras na Rotatividade de Funcionários</h3>
 <img src="imgs/img2.png" alt="Mapa de Calor de Correlação" width="700" /> <br>
 *Relação entre a realização de horas extras e a rotatividade de funcionários*
 
 ---
 
-## 🎯 Por Que Este Projeto Importa para Recrutadores?
-Como aspirante a estágio em Data Science, este projeto demonstra habilidades completas em **análise de dados, visualização, pré-processamento (incluindo desbalanceamento de classes), modelagem preditiva (com otimização de hiperparâmetros) e demonstração de aplicação de modelos** em um problema de negócios real em RH. Aqui, mostro minha capacidade de lidar com **datasets desbalanceados**, extrair insights e construir soluções de Machine Learning de ponta a ponta, sendo um candidato ideal para iniciativas orientadas por dados! 💡
-
----
-
-## 🚀 Como Explorar Este Projeto
+## 🚀 Como Explorar Este Projeto na sua máquina
 1.  **Clone o repositório:**
     ```bash
     git clone <seu-repo-url>
