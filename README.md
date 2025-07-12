@@ -46,7 +46,7 @@ Este projeto foi dividido em notebooks para garantir um fluxo de trabalho claro 
 
 ---
 
-## 📸 Alguns Gráficos da EDA!
+## 📊 Alguns Gráficos de Demonstração!
 <h3>Histórico de Treinamento do Modelo Keras (Acurácia e Loss)</h3>
 <img src="imgs/img.png" alt="Distribuição de Várias Features Numéricas" width="700" /> <br>
 *Acurácia do modelo de Deep Learning.*
